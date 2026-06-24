@@ -4,8 +4,7 @@ import numpy as np
 import pandas as pd
 from sklearn.preprocessing import StandardScaler
 
-
-
+# Flask app for Algerian Forest Fires prediction model
 application = Flask(__name__)
 app= application
 
